@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [HR-portal](https://github.com/roadman-KT3/HR-portal)
 
-- 🌱 I’m currently learning **Software Engineering **
+- 🌱 I’m currently learning **Software Engineering**
 
 - 👯 I’m looking to collaborate on **any project relating to blockchain, web development and data analysis**
 
